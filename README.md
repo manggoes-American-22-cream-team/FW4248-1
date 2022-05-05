@@ -1,5 +1,5 @@
 - 🔍 @FW4248 🔎
-- 
+-  
 - 
 :↙⤵-↕ 
 :↙|
@@ -13,8 +13,8 @@
    - ↕ |||||           ➡ In🏴  ...
 
 
-- 
--
+- <pin/>h6: file of git<h6>
+- <pin/>h4: steps to note list's & follow steps<h6><h4 = html;><h6/>
 - 
 -   
 - 🔻
